@@ -9,7 +9,7 @@
             "homepage": "http://www.unit6websites.com"
         }
     ],
-    "license": "proprietary",
+    "license": "MIT",
     "repositories": [
         {
             "type": "composer",
